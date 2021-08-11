@@ -1,5 +1,5 @@
 # Newton-Raphson-Approximation
-find a single root of a polynomial of complex coefficients based on the Newton-Raphson approximation algorithm over complex numbers.
+find a single root of a polynomial of complex coefficients based on the Newton-Raphson approximation algorithm over complex numbers.  
 The input to the program:  
 The program shall read from stdin the following items:  
 • A specification of tolerance (how close must we get to an actual zero
